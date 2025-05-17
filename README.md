@@ -25,3 +25,5 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 - Supabase
+
+The website : https://pathwise-beta.vercel.app/
